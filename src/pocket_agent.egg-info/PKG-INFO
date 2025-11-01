@@ -4,6 +4,8 @@ Version: 0.1.0
 Summary: Add your description here
 Requires-Python: >=3.13
 Description-Content-Type: text/markdown
+Requires-Dist: colorlog>=6.10.1
 Requires-Dist: fastmcp>=2.13.0.2
 Requires-Dist: openai>=2.6.1
+Requires-Dist: python-dotenv>=1.2.1
 Requires-Dist: semantic-kernel>=1.36.0

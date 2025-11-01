@@ -5,3 +5,7 @@ src/pocket_agent.egg-info/SOURCES.txt
 src/pocket_agent.egg-info/dependency_links.txt
 src/pocket_agent.egg-info/requires.txt
 src/pocket_agent.egg-info/top_level.txt
+src/utils/get_env_var.py
+src/utils/llm.py
+src/utils/logger.py
+src/utils/openai_generate.py
